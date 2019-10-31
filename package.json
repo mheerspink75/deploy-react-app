@@ -7,7 +7,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
-  "homepage": "",
+  "homepage": "https://mheerspink75.github.io/deploy-react-app/",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
