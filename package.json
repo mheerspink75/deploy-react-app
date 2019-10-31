@@ -9,7 +9,8 @@
   },
   "homepage": "https://mheerspink75.github.io/deploy-react-app/",
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
