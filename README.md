@@ -13,7 +13,7 @@ npm i gh-pages
 **2.** Create a new git repository branch and name it gh-pages
 
 
-**3.** Update package,json with "homepage", "predeploy" and "deploy" scripts
+**3.** Update package.json with "homepage", "predeploy" and "deploy" scripts
 
 ```bash
 },
