@@ -40,6 +40,8 @@ npm run predeploy
 npm run deploy
 ```
 
+---
+
 **6.** Check the gh-pages branch of the git repository to view the production files
 
 **7.** Visit the homepage url: https://mheerspink75.github.io/deploy-react-app/
