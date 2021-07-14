@@ -1,4 +1,6 @@
-### deploy react app
+### deploy-react-app
+
+*A guide to deploying create-react-app to GitHub Pages*
 
 ---
 
