@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/deploy-react-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/deploy-react-app/static/js/main.8ad7d835.chunk.js",
-    "main.js.map": "/deploy-react-app/static/js/main.8ad7d835.chunk.js.map",
-    "runtime~main.js": "/deploy-react-app/static/js/runtime~main.abf905a6.js",
-    "runtime~main.js.map": "/deploy-react-app/static/js/runtime~main.abf905a6.js.map",
-    "static/js/2.53b63a6f.chunk.js": "/deploy-react-app/static/js/2.53b63a6f.chunk.js",
-    "static/js/2.53b63a6f.chunk.js.map": "/deploy-react-app/static/js/2.53b63a6f.chunk.js.map",
+    "main.css": "/deploy-react-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/deploy-react-app/static/js/main.590890f6.chunk.js",
+    "main.js.map": "/deploy-react-app/static/js/main.590890f6.chunk.js.map",
+    "runtime-main.js": "/deploy-react-app/static/js/runtime-main.97283e39.js",
+    "runtime-main.js.map": "/deploy-react-app/static/js/runtime-main.97283e39.js.map",
+    "static/js/2.61f18ca8.chunk.js": "/deploy-react-app/static/js/2.61f18ca8.chunk.js",
+    "static/js/2.61f18ca8.chunk.js.map": "/deploy-react-app/static/js/2.61f18ca8.chunk.js.map",
+    "static/js/3.b6b848eb.chunk.js": "/deploy-react-app/static/js/3.b6b848eb.chunk.js",
+    "static/js/3.b6b848eb.chunk.js.map": "/deploy-react-app/static/js/3.b6b848eb.chunk.js.map",
     "index.html": "/deploy-react-app/index.html",
-    "precache-manifest.41c3d2d97ce82024d387a680a662c3a1.js": "/deploy-react-app/precache-manifest.41c3d2d97ce82024d387a680a662c3a1.js",
-    "service-worker.js": "/deploy-react-app/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/deploy-react-app/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/deploy-react-app/static/media/logo.5d5d9eef.svg"
-  }
+    "static/css/main.8c8b27cf.chunk.css.map": "/deploy-react-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.61f18ca8.chunk.js.LICENSE.txt": "/deploy-react-app/static/js/2.61f18ca8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deploy-react-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97283e39.js",
+    "static/js/2.61f18ca8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.590890f6.chunk.js"
+  ]
 }
